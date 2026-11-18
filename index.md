@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+#Brenden Clapp
 <img src="/profile.jpg"
      alt=""
      style="float: left;
