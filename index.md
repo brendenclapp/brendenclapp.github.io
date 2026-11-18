@@ -3,9 +3,27 @@ layout: default
 ---
 
 # Brenden Clapp
-![My Profile Photo](profile.jpg)
+<div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 
-I'm currently a Senior at Washington State University studying Mechanical Engineering and Applied Mathematics.
+  <img src="Brenden.jpeg"
+       alt="Brenden Clapp"
+       style="width: 130px;
+              height: 130px;
+              object-fit: cover;
+              border-radius: 15px;">
+
+  <div style="flex: 1; min-width: 200px;">
+    <h1>Brenden Clapp</h1>
+
+    <p><strong>Mechanical Engineering & Applied Mathematics</strong></p>
+
+    <p>Washington State University</p>
+
+    <p>Interested in computational fluid dynamics,
+    numerical methods, and scientific computing.</p>
+  </div>
+
+</div>
 
 ## Projects
 
