@@ -6,7 +6,7 @@ layout: default
 
   <!-- Profile picture on the left -->
   <img src="/profile.jpg"
-       alt="Brenden Clapp"
+       alt=""
        style="width: 120px;
               height: 120px;
               object-fit: cover;
@@ -14,9 +14,6 @@ layout: default
 
   <!-- Text on the right -->
   <div style="flex: 1; min-width: 200px;">
-    <h2>Brenden Clapp</h2>
-    <p><strong>Mechanical Engineering & Applied Mathematics</strong></p>
-    <p>Washington State University</p>
   </div>
 
 </div>
@@ -25,7 +22,7 @@ layout: default
 I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.
 
 
-## Projects
+## Projects 
 
 - [Computational Fluid Dynamics](cfd.html)
 - Custom Alarm Clock
