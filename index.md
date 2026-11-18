@@ -2,10 +2,9 @@
 layout: default
 ---
 
-# Brenden Clapp
 <div style="display: flex; align-items: center; gap: 25px; flex-wrap: wrap;">
 
-  <img src="Brenden.jpeg"
+  <img src="profile.jpeg"
        alt="Brenden Clapp"
        style="width: 130px;
               height: 130px;
