@@ -4,13 +4,12 @@ layout: default
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
 
-  <img src="{{ '/profile.jpeg' | relative_url }}"
+  <img src="{{ '/profile.jpg' | relative_url }}"
      alt="Brenden Clapp"
      style="width: 120px;
             height: 120px;
             object-fit: cover;
             border-radius: 15px;">
-    <h1>Brenden Clapp</h1>
     <p><strong>Mechanical Engineering & Applied Mathematics</strong></p>
     <p>Washington State University</p>
   </div>
