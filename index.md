@@ -12,7 +12,7 @@ layout: default
               border-radius: 15px;">
 
   <div style="flex: 1; min-width: 200px;">
-    <h1>Brenden Clapp</h1>
+  
 
     <p><strong>Mechanical Engineering & Applied Mathematics</strong></p>
 
