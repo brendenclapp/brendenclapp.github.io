@@ -12,9 +12,9 @@ layout: default
             margin: 0 20px 15px 0;">
 
 <p>
-I'm a Mechanical Engineering and Applied Mathematics student
-interested in computational fluid dynamics, numerical methods,
-and scientific computing.
+Hello, my name is Brenden Clapp. I'm currently a senior at Washington State University studying Mechanical Engineering and Applied Mathematics
+I'm particularly interested in computational fluid dynamics, numerical methods, and medical modeling. I've taken the liberty of creating this space
+as a means to share my projects.
 </p>
 
 <div style="clear: both;"></div>
