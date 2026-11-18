@@ -1,11 +1,9 @@
 ---
 layout: default
-title: My Portfolio
-description: My engineering projects
-permalink: /
 ---
 
-# Welcome to My Portfolio
+# Brenden Clapp
+![My Profile Photo](profile.jpg)
 
 I'm currently a Senior at Washington State University studying Mechanical Engineering and Applied Mathematics.
 
