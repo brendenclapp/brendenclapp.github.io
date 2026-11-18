@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-#Brenden Clapp
 <img src="/profile.jpg"
      alt=""
      style="float: left;
-            width: 180px;
-            height: 180px;
+            width: 240px;
+            height: 240px;
             object-fit: cover;
             border-radius: 15px;
             margin: 0 20px 15px 0;">
