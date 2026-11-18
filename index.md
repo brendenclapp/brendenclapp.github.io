@@ -13,7 +13,7 @@ layout: default
               border-radius: 15px;">
 
   <!-- Text on the right -->
-  <p>I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.</p>
+    <p>I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.</p>
   <div style="flex: 1; min-width: 200px;">
   </div>
 
