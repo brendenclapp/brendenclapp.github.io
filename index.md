@@ -2,22 +2,23 @@
 layout: default
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<img src="/profile.jpg"
+     alt=""
+     style="float: left;
+            width: 180px;
+            height: 180px;
+            object-fit: cover;
+            border-radius: 15px;
+            margin: 0 20px 15px 0;">
 
-  <!-- Profile picture on the left -->
-  <img src="/profile.jpg"
-       alt=""
-       style="width: 180px;
-              height: 180px;
-              object-fit: cover;
-              border-radius: 15px;">
+<p>
+I'm a Mechanical Engineering and Applied Mathematics student
+interested in computational fluid dynamics, numerical methods,
+and scientific computing.
+</p>
 
-  <!-- Text on the right -->
-    <p>I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.</p>
-  <div style="flex: 1; min-width: 200px;">
-  </div>
+<div style="clear: both;"></div>
 
-</div>
 
 ## Projects 
 
