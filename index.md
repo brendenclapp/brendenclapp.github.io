@@ -7,20 +7,17 @@ layout: default
   <!-- Profile picture on the left -->
   <img src="/profile.jpg"
        alt=""
-       style="width: 120px;
-              height: 120px;
+       style="width: 180px;
+              height: 180px;
               object-fit: cover;
               border-radius: 15px;">
 
   <!-- Text on the right -->
+  <p>I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.</p>
   <div style="flex: 1; min-width: 200px;">
   </div>
 
 </div>
-## About Me
-
-I'm a Mechanical Engineering and Applied Mathematics student interested in computational fluid dynamics, numerical methods, and scientific computing.
-
 
 ## Projects 
 
