@@ -1,3 +1,0 @@
-# brendenclapp.github.io
-
-hello
