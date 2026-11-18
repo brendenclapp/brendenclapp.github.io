@@ -10,7 +10,10 @@ layout: default
             border-radius: 15px;
             margin: 0 20px 15px 0;">
 
-<p>
+<p style="font-size: 17px;
+          line-height: 1.8;
+          color: #333;
+          margin-bottom: 20px;">
 Hello, my name is Brenden Clapp. I'm currently a senior at Washington State University studying Mechanical Engineering and Applied Mathematics
 I'm particularly interested in computational fluid dynamics, numerical methods, and medical modeling. I've taken the liberty of creating this space
 as a means to share my projects.
